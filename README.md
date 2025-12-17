@@ -20,6 +20,4 @@
 - **HTTP Client:** Angular HttpClient for API integration  
 - **Version Control:** Git & GitHub  
 
----
 
-## 📂 Project Structure
